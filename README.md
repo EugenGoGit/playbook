@@ -1,0 +1,1 @@
+- [Процессы и стандарты в команде разработки](https://github.com/EugenGoGit/playbook/blob/master/processes-and-standards.md)
